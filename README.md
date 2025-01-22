@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Sahil, a passionate CSE Student based in Odisha. I love to explore new technologies and work on exciting projects that challenge my skills. I love to learn.
+👋 Hi there! I'm Sahil, a passionate CSE Student based in Odisha. I love to explore new technologies and work on exciting projects that challenge my skills.
 
 
 ## 🌐 Socials:
