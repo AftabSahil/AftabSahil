@@ -35,15 +35,7 @@ Here's an overview of my GitHub activity:
 
 I believe in consistently working on projects and expanding my coding skills to reach new heights. Through GitHub, I actively engage with projects and strive to learn and grow as a developer. My projects showcase my ability to utilize modern frameworks like React and enhance my coding skills through algorithmic challenges, as seen in my repository called "leetcode".
 
-## 🚀 Projects
 
-Here are some of my notable projects:
-
-- [![Landing Page](https://github.com/AftabSahil/landingpage-react)] - A landing page built using HTML, CSS, and JavaScript, which has been converted to React.
-
-- [![LeetCode](https://github.com/AftabSahil/leetcode)] - Repository that includes coding problems and their solutions in Python and Java, strengthening my problem-solving abilities.
-
-Please explore my GitHub profile to see all the projects I have been working on!
 
 ## 🔭 GitHub Stats
 
