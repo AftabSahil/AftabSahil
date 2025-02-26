@@ -5,12 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/aftabsahil2003" target="blank"><img src="https://img.shields.io/twitter/follow/aftabsahil2003?logo=twitter&style=for-the-badge" alt="aftabsahil2003" /></a> </p>
 
+- 📫 How to reach me **aftabsahi81@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aftabsahil2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aftabsahil2003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-aftab-70870825b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-aftab-70870825b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahil-aftab-70870825b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-aftab-70870825b" height="30" width="40" /></a>
 <a href="https://instagram.com/alex.exclusive.159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex.exclusive.159" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aftabsahil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aftabsahil/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aftabsahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aftabsahil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
