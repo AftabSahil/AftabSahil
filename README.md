@@ -1,6 +1,5 @@
 # Hi there! I'm Sahil Aftab 👋
 
-![Profile Image](https://github.com/AftabSahil.png)
 
 I am a highly motivated and creative software developer with a diverse skill set and a keen interest in web development. I am passionate about exploring new technologies and working on exciting projects that challenge my skills. With a focus on both backend and frontend development, I am proficient in languages such as JavaScript, HTML, CSS, SCSS, Java, and Python. 
 
